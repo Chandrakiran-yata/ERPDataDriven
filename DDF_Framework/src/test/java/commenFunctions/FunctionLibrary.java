@@ -34,4 +34,16 @@ public static boolean adminLogin(String username,String password)
 		return false;
         }
 }
+public void add()
+{
+	int a=23,b=124,c;
+	c=a+b;
+	System.out.println(c);
+}
+public void div()
+{
+	int a=23,b=124,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
